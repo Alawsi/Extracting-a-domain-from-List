@@ -3,6 +3,7 @@
 import os
 
 print('Put your emails in "Emails.txt"')
+print('do not put the "@" sign')
 
 def Extracting(Domain):
     try:
